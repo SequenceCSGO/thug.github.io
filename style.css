@@ -15,13 +15,13 @@ canvas {
 }
 H1 {
     position:relative;
-    z-index:1;
+    z-index:5;
     font-size:70px;
     padding:0;
     display: table;
     margin:auto;
     letter-spacing:2px;
-    font-family: 'Arial', cursive;
+    font-family:Arial;
 }
 P {
     display: table;
