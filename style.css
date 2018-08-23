@@ -13,16 +13,6 @@ canvas {
     width: 100%;
     height: 100%;
 }
-H1 {
-    position:relative;
-    z-index:5;
-    font-size:70px;
-    padding:0;
-    display: table;
-    margin:auto;
-    letter-spacing:2px;
-    font-family:Arial;
-}
 P {
     display: table;
     margin:20px auto;
